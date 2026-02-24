@@ -1,0 +1,143 @@
+多语言录音表
+
+Standard CV
+pa pe pi po pu
+ma me mi mo mu
+wa we wi wo wu
+ta te ti to tu
+sa se si so su
+na ne ni no nu
+la le li lo lu
+ka ke ki ko ku
+ja je ji jo ju
+a e i o u
+m n ng
+pan pen pin pon pun
+man men min mon mun
+wan wen win won wun
+tan ten tin ton tun
+san sen sin son sun
+nan nen nin non nun
+lan len lin lon lun
+kan ken kin kon kun
+jan jen jin jon jun
+
+塞尔维亚语
+a-i-u-e-o
+r-v-j-l-lj
+m-n-nj-f-s
+z-h-c-dz-ts
+b-p-d-t-g-k
+
+阿尔巴尼亚语
+m-n-ng-p-t
+k-b-d-g-ts
+ts-dz-f-s-h
+sh-r-l-v-z
+j-rr-th-ll-dh
+gj-xh-nj-ng-i
+e-a-o-y-u-ë
+
+亚美尼亚语
+m-b-p-ph-f
+v-l-r-s-z
+n-t-d-th-ts
+dz-tsh-j-k-g
+x-h-kh-ng-a
+e-z-y-gh-ch
+sh-rr-v-ts-w
+ph
+
+弗里吉亚语
+m-n-p-b-t
+d-k-g-s-ts
+dz-w-l-j-r
+a-i-u-e-o-y
+
+波斯尼亚语
+i-e-a-o-u
+r-v-j-l-lj
+m-n-nj-f-s
+z-š-ž-c-dz
+ć-č-đ-b-p
+d-t-g-k
+
+保加利亚语
+k-x-p-f-s
+t-ts-b-v-m
+g-r-j-l-n
+d-z-a-i-u
+e-o-y
+
+匈牙利语
+a-o-u-á-ó
+ú-e-i-é-í
+ö-ő-ü-ű 
+m-n-ny-p-b
+t-d-k-g-ts
+dz-f-v-s-z
+r-h-l-j-cha
+ja-z
+
+马其顿语
+a-b-v-g-d
+d-e-z-dz-i
+j-k-l-lj-m
+n-nj-o-p-r-ḱ
+s-t-ḱ-u-f
+h-c-č-dž-š
+
+埃地语
+i-e-a-o-u
+m-n-p-ng-t
+c-k-ph-th-ch
+kh-b-d-j-g
+s-h-w-l-y-ñ
+
+罗曼什语
+m-n-ng-p-b
+t-d-k-g-ts
+f-v-s-z-h
+j-l-r-i-y
+u-e-o-a-s
+sh
+
+阿塞拜疆语
+p-t-k-q-b
+d-g-f-s-h
+v-z-m-n-l
+r-i-y-u-e
+a-o-dz-ts-z
+
+库尔曼吉语
+i-e-u-o-a
+b-p-d-t-g
+k-q-v-f-z
+s-j-x-h-n-r
+w-r-y
+
+奥克语
+a-b-c-d-e
+é-è-ç-á-à
+f-g-h-i-í
+j-k-l-m-n
+ó-ò-p-q-r
+s-t-u-ú-v
+w-x-y-z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
