@@ -1,0 +1,61 @@
+CVVC Kopina Reclist
+
+k{ ki ku ke kO k n k
+kaI keI koI koU k
+g{ gi gu ge gO g n g
+gaI geI goI goU g
+d{ di du de dO d n d
+daI deI doI doU d
+z{ zi zu ze zO z n z
+zaI zeI zoI zoU z
+Z{ Zi Zu Ze ZO Z n Z
+ZaI ZeI ZoI ZoU Z
+p{ pi pu pe pO p n p
+paI peI poI poU p
+b{ bi bu be bO b n b
+baI beI boI boU b
+h{ hi hu he hO h n h
+haI heI hoI hoU h
+v{ vi vu ve vO v n v
+vaI veI voI voU v
+l{ li lu le lO l n l
+laI leI loI loU l
+RR{ RRi RRu RRe RRO RR n RR
+RRaI RReI RRoI RRoU RR
+r{ ri ru re rO r n r
+raI reI roI roU r
+4{ 4i 4u 4e 4O 4 { n 4
+4aI 4eI 4oI 4oU 4
+S{ Si Su Se SO S n S
+SaI SeI SoI SoU S
+w{ wi wu we wO w n w
+waI weI woI woU w
+j{ ji ju je jO j n j
+jaI jeI joI joU j
+st{ sti stu ste stO st n st
+staI steI stoI stoU st
+Sw{ Swi Swu Swe SwO Sw n Sw
+SwaI SweI SwoI SwoU Sw
+n{ ni nu ne nO n n
+naI neI noI noU n
+N{ Ni Nu Ne NO N n N
+NaI NeI NoI NoU N
+{i u e O oU al el ol 
+{ { i { u { e { O { n {
+{ aI { eI { oI { oU {
+i { i i u i e i O i n i
+i aI i eI i oI i oU i
+u { u i u u e u O u n u
+u aI u eI u oI u oU u
+e { e i e u e e O e n e
+aI e eI e oI e oU e
+O { O i O u O e O O n O
+aI O eI O oI O oU O
+aI { aI i aI u aI e aI O aI n aI
+aI aI eI aI oI aI oU aI
+eI { eI i eI u eI e eI O eI n eI
+eI aI eI eI oI eI oU eI
+oI aI oI eI oI u oI O oI n oI
+oI aI oI eI oI oI oU oI
+oU { oU i oU u oU e oU O oU n oU
+oU aI oU eI oU oI oU oU
